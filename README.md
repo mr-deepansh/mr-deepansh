@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deepanshgangwar7037@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1zLxbEsB9N_ImXyrP5eeQSyPpxCZ8fvUP](https://drive.google.com/drive/u/0/folders/1zLxbEsB9N_ImXyrP5eeQSyPpxCZ8fvUP)
+- 📄 Know about my experiences [LinkedIn ](https://www.linkedin.com/in/deepansh-gangwar/)
 
 - ⚡ Fun fact **Technical enthusiast with hands-on experience in optimizing server performance by integrating NAS for efficient data storage and management, along with a keen interest in pursuing advanced studies in Computer Science to further enhance my expertise.**
 
