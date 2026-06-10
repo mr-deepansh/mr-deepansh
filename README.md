@@ -1,101 +1,121 @@
 <h1 align="center">👋 Hi, I'm Deepansh Gangwar</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Backend Engineer | Technical Enthusiast from India 🇮🇳</h3>
-
-<p align="center">
-<a href="https://twitter.com/it_deepansh7037" target="_blank"><img src="https://img.shields.io/twitter/follow/it_deepansh7037?logo=twitter&style=for-the-badge" alt="Twitter: it_deepansh7037" /></a>
-<a href="https://linkedin.com/in/deepansh-gangwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://x.com/it_deepansh7037" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="Twitter X" /></a>
-<a href="https://discord.gg/F2Q3nxCV8x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
-<a href="https://instagram.com/endless_code_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-</p>
+<h3 align="center"> Backend-Focused Full Stack Developer <br/>
+Node.js • TypeScript • PostgreSQL • Docker • React
+</h3>
 
 ---
 
 ### 💫 About Me  
-- 🚀 I'm a **Full-Stack Developer (MERN)** passionate about designing scalable and secure web applications.  
-- 💡 Experienced in **Node.js, Express.js, React.js, MongoDB, and Docker**, with a strong focus on **backend systems** and performance optimization.  
-- 📚 Currently pursuing **B.Tech in Computer Science Engineering** at *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow*.  
-- 🎯 Actively exploring **Next.js, microservices, and DevOps (Nginx, Docker Compose, CI/CD)** for production-ready deployments.  
-- 🏆 **Winner** of the *Problem Solving Contest* at **Lotus Institute, Bareilly**, representing **K.C.M.T. College Campus-2** among multiple colleges.  
-- 📜 **Workshop Certified by GeeksforGeeks** for participating in a hands-on MERN Stack Development Workshop.  
+- 🚀 Backend-Focused Full Stack Developer specializing in Node.js, TypeScript, PostgreSQL, React, and Docker.
+- 🔐 Experienced in building authentication systems, REST APIs, RBAC, OAuth 2.0 workflows, observability, and production-grade deployments.
+- ⚡ Passionate about backend architecture, distributed systems, cloud-native engineering, and scalable application design.
+- 🎓 B.Tech Computer Science Engineering (AKTU)
+- 📫 Seeking opportunities in Backend Engineering, Platform Engineering, and Full Stack Development.
 - ✉️ Reach me at **deepanshgangwar7037@gmail.com**  
 
 ---
 
-### 🧠 Fun Fact  
-> Technical enthusiast with hands-on experience optimizing server performance by integrating NAS for efficient data storage and management.  
-> Passionate about building self-hosted enterprise systems like VPNs and ERPs with complete backend and deployment control.
+### 🧠 Engineering Interests
 
+- Distributed Systems
+- Authentication & Authorization
+- API Design
+- Observability & Monitoring
+- Cloud-Native Infrastructure
+- Backend Architecture
 ---
+
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/deepansh-gangwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%230A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mr-deepansh/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/it_deepansh7037/" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/F2Q3nxCV8x" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-404EED.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/endless_code_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
 # 💻 Tech Stack  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-%232F93E0.svg?style=for-the-badge&logo=pm2&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=flat-square&logo=typescript&logoColor=%233178C6)
+![NodeJS](https://img.shields.io/badge/node.js-000000.svg?style=flat-square&logo=node.js&logoColor=%235FA04E)
+![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=flat-square&logo=mongodb&logoColor=%2347A248)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=flat-square&logo=mysql&logoColor=%234479A1)
+![Redis](https://img.shields.io/badge/redis-000000.svg?style=flat-square&logo=redis&logoColor=%23DC382D)
+![Docker](https://img.shields.io/badge/docker-000000.svg?style=flat-square&logo=docker&logoColor=%232496ED)
+![Pino](https://img.shields.io/badge/Pino-000000.svg?style=flat-square&logo=pino&logoColor=%23689F63)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=flat-square&logo=postgresql&logoColor=%234169E1)
+![Valkey](https://img.shields.io/badge/Valkey-000000.svg?style=flat-square&logo=valkey&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000.svg?style=flat-square&logo=drizzle&logoColor=%23C5F74F)
+![Prisma](https://img.shields.io/badge/Prisma-000000.svg?style=flat-square&logo=prisma&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000.svg?style=flat-square&logo=oauth&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-000000.svg?style=flat-square&logo=nginx&logoColor=%23009639)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=flat-square&logo=tailwind-css&logoColor=%2306B6D4)
+![Redux](https://img.shields.io/badge/redux-000000.svg?style=flat-square&logo=redux&logoColor=%23764ABC)
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Git](https://img.shields.io/badge/git-000000.svg?style=flat-square&logo=git&logoColor=%23F05032)
+![GitHub](https://img.shields.io/badge/github-000000.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000.svg?style=flat-square&logo=postman&logoColor=%23FF6C37)
+![ESLint](https://img.shields.io/badge/ESLint-000000.svg?style=flat-square&logo=eslint&logoColor=%234B32C3)
+![PM2](https://img.shields.io/badge/PM2-000000.svg?style=flat-square&logo=pm2&logoColor=%232B037A)
 
 ---
 
-# 📊 GitHub Stats  
-<div align="strat" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; padding:1rem;" >
+---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-deepansh&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" 
-       alt="Default GitHub Stats" height="180"/>   <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mr-deepansh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-       alt="Custom GitHub Stats" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-deepansh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-       alt="Top Languages" height="230"/>     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-deepansh&theme=dark&hide_border=false" 
-       alt="GitHub Streak Stats" height="165"/>
-
+# 📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; padding: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-deepansh&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-deepansh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 ---
+---
 
-### 🏆 Achievements  
-- 🥇 Winner – **Problem Solving Contest**, Lotus Institute, Bareilly (Represented K.C.M.T. College Campus-2)  
-- 📜 **Workshop Certified by GeeksforGeeks** – Full-Stack MERN Development  
-- 🏅 Recognized for outstanding **problem-solving and coding performance** among multiple colleges  
+## 🚀 Featured Projects
+
+#### [🔐 OIDC Authentication Server](#) > Production-grade OAuth 2.0 / OpenID Connect authentication server designed for secure identity management.
+> **Tech Stack:** Node.js, TypeScript, PostgreSQL, Redis, Docker, OpenTelemetry
+
+#### [🌍 Trip Planning Collaboration Platform](#) > Multi-user trip planning platform featuring secure login mechanisms and real-time collaboration.
+> **Tech Stack:** Node.js, PostgreSQL, JWT, OAuth 2.0
+
+#### [💬 EndlessChat](#) > Full-stack social media platform with comprehensive user features and responsive design.
+> **Tech Stack:** React, TypeScript, Node.js, MongoDB, Tailwind CSS
 
 ---
 
-### 🎯 Goals  
+## 🏆 Achievements  
+- 🥇 **Winner** – Problem Solving Contest, Lotus Institute, Bareilly *(Represented K.C.M.T. College Campus-2)* - 📜 **Certified by GeeksforGeeks** – Full-Stack MERN Development Workshop  
+- 🏅 **Recognized** for outstanding problem-solving and coding performance among multiple colleges
+
+---
+
+## 🏗️ Currently Learning
+
+- OpenID Connect (OIDC)
+- Distributed Systems
+- Event-Driven Architecture
+- OpenTelemetry
+- Microservices
+- Cloud Infrastructure
+
+## 🎯 Goals  
 > To build production-grade enterprise systems, contribute to open-source projects, and grow into a **Backend Software Engineer** capable of designing scalable APIs, secure infrastructures, and cloud-ready deployments.
 
 ---
 
-### 🧩 “Code with logic, build with passion, and deploy with perfection.”  
-⭐ **Deepansh Gangwar** | [LinkedIn](https://linkedin.com/in/deepansh-gangwar) | [GitHub](https://github.com/mr-deepansh)
+<h3 align="center">🧩 “Code with logic, build with passion, and deploy with perfection.”</h3>  
+
+<p align="center">
+  ⭐ <b>Deepansh Gangwar</b> <br>
+  <a href="https://linkedin.com/in/deepansh-gangwar" target="_blank">LinkedIn</a> | <a href="https://github.com/mr-deepansh" target="_blank">GitHub</a>
+</p>
