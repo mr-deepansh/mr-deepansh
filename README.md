@@ -92,7 +92,7 @@ Currently pursuing a B.Tech in Computer Science Engineering while continuously b
   
   <img src="https://streak-stats.demolab.com?user=mr-deepansh&theme=neon&hide_border=false" height="150" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mr-deepansh&theme=neon&layout=compact&include_all_commits=true&count_private=true&hide_border=false&langs_count=8&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mr-deepansh&theme=github_dark&layout=compact&include_all_commits=true&count_private=true&hide_border=false&langs_count=8&cache_seconds=1800" height="150" alt="Top Languages" />
   
 </div>
 
