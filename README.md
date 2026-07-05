@@ -88,8 +88,12 @@ Currently pursuing a B.Tech in Computer Science Engineering while continuously b
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-deepansh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-deepansh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mr-deepansh&theme=neon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=mr-deepansh&theme=neon&hide_border=false" height="150" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mr-deepansh&theme=neon&layout=compact&include_all_commits=true&count_private=true&hide_border=false&langs_count=8&cache_seconds=1800" height="150" alt="Top Languages" />
+  
 </div>
 
 ---
@@ -125,3 +129,6 @@ I build with long-term maintainability in mind — clean contracts between servi
   <a href="https://github.com/mr-deepansh" target="_blank">GitHub</a> · 
   <a href="mailto:deepanshgangwar7037@gmail.com">deepanshgangwar7037@gmail.com</a>
 </p>
+
+---
+[![](https://komarev.com/ghpvc/?username=mr-deepansh&icon=0&color=300+)](https://visitcount.itsvg.in)
