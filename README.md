@@ -131,4 +131,4 @@ I build with long-term maintainability in mind — clean contracts between servi
 </p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mr-deepansh&icon=0&color=300+)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mr-deepansh&icon=0&color=320+)](https://visitcount.itsvg.in)
