@@ -5,19 +5,23 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepansh-gangwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%230A66C2" alt="LinkedIn" />
+  <a href="https://deepansh-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Portfolio" />
   </a>
-  <a href="https://github.com/mr-deepansh/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/deepansh-gangwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/it_deepansh7037/" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://github.com/mr-deepansh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="28" alt="GitHub" />
+  </a>
+  <a href="https://x.com/it_deepansh7037" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white" height="28" alt="X" />
   </a>
   <a href="mailto:deepanshgangwar7037@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=%23EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
 </p>
+
 
 ---
 
@@ -54,37 +58,51 @@ Currently pursuing a B.Tech in Computer Science Engineering while continuously b
 
 ## Tech Stack
 
-**Languages & Runtimes**
+### Languages & Runtimes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=flat-square&logo=typescript&logoColor=%233178C6)
-![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-000000.svg?style=flat-square&logo=node.js&logoColor=%235FA04E)
-![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-000000.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=flat-square&logo=tailwind-css&logoColor=%2306B6D4)
-![Redux](https://img.shields.io/badge/redux-000000.svg?style=flat-square&logo=redux&logoColor=%23764ABC)
-![tRPC](https://img.shields.io/badge/tRPC-000000.svg?style=flat-square&logo=trpc&logoColor=%232596BE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=flat-square&logo=postgresql&logoColor=%234169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=flat-square&logo=mongodb&logoColor=%2347A248)
-![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=flat-square&logo=mysql&logoColor=%234479A1)
-![Redis](https://img.shields.io/badge/redis-000000.svg?style=flat-square&logo=redis&logoColor=%23DC382D)
-![Valkey](https://img.shields.io/badge/Valkey-000000.svg?style=flat-square&logo=valkey&logoColor=%23FF4444)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000.svg?style=flat-square&logo=drizzle&logoColor=%23C5F74F)
-![Prisma](https://img.shields.io/badge/Prisma-000000.svg?style=flat-square&logo=prisma&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000.svg?style=flat-square&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000.svg?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-000000.svg?style=flat-square&logo=openapiinitiative&logoColor=%2368C39E)
-![Swagger](https://img.shields.io/badge/Swagger-000000.svg?style=flat-square&logo=swagger&logoColor=%2385EA2D)
-![Docker](https://img.shields.io/badge/docker-000000.svg?style=flat-square&logo=docker&logoColor=%232496ED)
-![Nginx](https://img.shields.io/badge/nginx-000000.svg?style=flat-square&logo=nginx&logoColor=%23009639)
-![PM2](https://img.shields.io/badge/PM2-000000.svg?style=flat-square&logo=pm2&logoColor=%232B037A)
-![Git](https://img.shields.io/badge/git-000000.svg?style=flat-square&logo=git&logoColor=%23F05032)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)
-![Pino](https://img.shields.io/badge/Pino-000000.svg?style=flat-square&logo=pino&logoColor=%23689F63)
-![Postman](https://img.shields.io/badge/Postman-000000.svg?style=flat-square&logo=postman&logoColor=%23FF6C37)
-![ESLint](https://img.shields.io/badge/ESLint-000000.svg?style=flat-square&logo=eslint&logoColor=%234B32C3)
+### Frameworks, Monorepos & Libraries
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=plastic&logo=trpc&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=plastic&logo=turborepo&logoColor=white)
 
+### Databases, ORMs, Caching & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-FF4444?style=plastic&logo=valkey&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=plastic&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+
+### Security, APIs & Auth
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3D4548?style=plastic&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
+![JWK](https://img.shields.io/badge/JWK-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-68C39E?style=plastic&logo=openapiinitiative&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)
+
+### DevOps, Package Managers & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
+
+### Testing, Monitoring & Tooling
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)
+![Pino](https://img.shields.io/badge/Pino-689F63?style=plastic&logo=pino&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white)
 ## GitHub Stats
 
 <div align="center">
@@ -123,12 +141,15 @@ Currently pursuing a B.Tech in Computer Science Engineering while continuously b
 I build with long-term maintainability in mind — clean contracts between services, structured logs from day one, and deployments that don't require heroics to manage.
 
 ---
-
 <p align="center">
+  <a href="https://deepansh-dev.vercel.app" target="_blank">Portfolio</a> · 
   <a href="https://linkedin.com/in/deepansh-gangwar" target="_blank">LinkedIn</a> · 
   <a href="https://github.com/mr-deepansh" target="_blank">GitHub</a> · 
-  <a href="mailto:deepanshgangwar7037@gmail.com">deepanshgangwar7037@gmail.com</a>
+  <a href="mailto:deepanshgangwar7037@gmail.com">Contact Me</a>
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=mr-deepansh&icon=0&color=330+)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=mr-deepansh&style=plastic&color=007ec6" alt="Profile Views" />
+  </a>
+</p>
