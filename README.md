@@ -58,52 +58,49 @@ Currently pursuing a B.Tech in Computer Science Engineering while continuously b
 
 ## Tech Stack
 
-### Languages & Runtimes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)
+## Languages & Runtimes
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)](https://nodejs.org/docs/)
 
-### Frameworks, Monorepos & Libraries
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=plastic&logo=trpc&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=plastic&logo=turborepo&logoColor=white)
+## Frameworks, Monorepos & Libraries
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
+[![Hono](https://img.shields.io/badge/Hono-E36002?style=plastic&logo=hono&logoColor=white)](https://hono.dev/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)](https://nextjs.org/docs)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)](https://redux.js.org/)
+[![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=plastic&logo=trpc&logoColor=white)](https://trpc.io/docs)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=plastic&logo=turborepo&logoColor=white)](https://turbo.build/repo/docs)
 
-### Databases, ORMs, Caching & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-FF4444?style=plastic&logo=valkey&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=plastic&logo=googlecloud&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=plastic&logo=drizzle&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+## Databases, ORMs, Caching & Messaging
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://redis.io/docs/)
+[![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=plastic&logo=drizzle&logoColor=black)](https://orm.drizzle.team/docs/overview)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)](https://www.prisma.io/docs)
 
-### Security, APIs & Auth
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3D4548?style=plastic&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
-![JWK](https://img.shields.io/badge/JWK-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-68C39E?style=plastic&logo=openapiinitiative&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)
+## Security, APIs & Auth
+[![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=plastic&logo=oauth&logoColor=white)](https://oauth.net/2/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=json-web-tokens&logoColor=white)](https://jwt.io/introduction)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=plastic&logo=openapi-initiative&logoColor=white)](https://swagger.io/specification/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)](https://swagger.io/docs/)
 
-### DevOps, Package Managers & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=pm2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
+## DevOps, Package Managers & Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
+[![PM2](https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/docs/usage/quick-start/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)](https://pnpm.io/motivation)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)](https://docs.npmjs.com/)
 
-### Testing, Monitoring & Tooling
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)
-![Pino](https://img.shields.io/badge/Pino-689F63?style=plastic&logo=pino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white)
-## GitHub Stats
+## Testing, Monitoring & Tooling
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white)](https://vitest.dev/guide/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs/)
+[![Pino](https://img.shields.io/badge/Pino-05B3A6?style=plastic&logo=pino&logoColor=white)](https://getpino.io/#/docs/help)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://learning.postman.com/docs/introduction/overview/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mr-deepansh&theme=neon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
