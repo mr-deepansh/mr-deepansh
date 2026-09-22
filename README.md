@@ -1,7 +1,7 @@
 <h1 align="center">Deepansh Gangwar</h1>
 
 <p align="center">
-  <strong>Software Engineer · Full Stack · Backend Systems · TypeScript · Node.js · PostgreSQL · Docker</strong>
+  <strong>Software Engineer · Backend-Focused Full Stack · TypeScript · Node.js · PostgreSQL · Distributed Systems</strong>
 </p>
 
 <p align="center">
@@ -22,131 +22,118 @@
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** focused on backend engineering and full-stack application development, with a strong interest in **API architecture, authentication, database systems, and distributed systems**.
+
+I primarily work with **TypeScript, Node.js, Hono, Express, PostgreSQL, React, Next.js, Redis, and Docker**. I enjoy designing clean service boundaries, reliable APIs, secure authentication flows, efficient database access, and observable production systems.
+
+Currently, I'm building and working on real-world applications across the **HRMS, collaboration, and SaaS** space while deepening my knowledge of **system design, PostgreSQL scaling, distributed systems, and cloud infrastructure**.
+
+🎓 B.Tech CSE — AKTU  
+🔐 Backend · Security · Distributed Systems  
+📬 `deepanshgangwar7037@gmail.com`
 
 ---
 
-## About
+## 🛠️ Tech Stack
 
-Software Engineer with a strong interest in backend engineering, authentication systems, and scalable web application development.
+<p align="center">
 
-I primarily work with Node.js, TypeScript, PostgreSQL, React, Next.js, Redis, and Docker, building applications that emphasize maintainability, security, and performance. My work includes API development, authentication and authorization systems, database design, observability, and modern deployment workflows.
-
-Beyond building applications, I enjoy learning how large-scale systems operate — from identity platforms and distributed architectures to cloud-native infrastructure and developer tooling.
-
-Currently pursuing a B.Tech in Computer Science Engineering while continuously building projects and strengthening my software engineering expertise.
-
-- 🎓 B.Tech — Computer Science Engineering, AKTU
-- 📬 deepanshgangwar7037@gmail.com
-- 💼 Open to Software Engineer, Backend Developer, and Full Stack Developer opportunities
-
----
-
-## Core Competencies
-
-| Area | Details |
-|---|---|
-| **Backend Engineering** | REST API design, tRPC, service decomposition, request lifecycle optimization |
-| **Auth & Security** | OAuth 2.0, OpenID Connect (OIDC), JWT, RBAC, session management |
-| **Database Systems** | Schema design, query optimization, migrations — Drizzle & Prisma (PostgreSQL, MongoDB, MySQL) |
-| **Caching & Queues** | Redis, Valkey — session caching, rate limiting, pub/sub |
-| **API & Docs** | OpenAPI 3.x (`openapi.json`), Swagger UI, typed end-to-end contracts |
-| **Observability** | Structured logging (Pino), distributed tracing (OpenTelemetry), metrics |
-| **Infrastructure** | Docker, Docker Compose, Nginx, PM2, containerized production deployments |
-| **Frontend** | React, Next.js, TailwindCSS, Redux — sufficient for full-stack ownership |
-
----
-
-## Tech Stack
-
-## Languages & Runtimes
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![NodeJS](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)](https://nodejs.org/docs/)
-
-## Frameworks, Monorepos & Libraries
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Hono](https://img.shields.io/badge/Hono-E36002?style=plastic&logo=hono&logoColor=white)](https://hono.dev/)
+[![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white)](https://redux.js.org/)
-[![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=plastic&logo=trpc&logoColor=white)](https://trpc.io/docs)
-[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=plastic&logo=turborepo&logoColor=white)](https://turbo.build/repo/docs)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=plastic&logo=trpc&logoColor=white)](https://trpc.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://redis.io/)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=plastic&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=plastic&logo=turborepo&logoColor=white)](https://turbo.build/repo)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Pino](https://img.shields.io/badge/Pino-05B3A6?style=plastic&logo=pino&logoColor=white)](https://getpino.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![OAuth2](https://img.shields.io/badge/OAuth_2.0-000000?style=plastic&logo=oauth&logoColor=white)](https://oauth.net/2/)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=plastic&logo=openapi-initiative&logoColor=white)](https://www.openapis.org/)
 
-## Databases, ORMs, Caching & Messaging
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://redis.io/docs/)
-[![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=plastic&logo=drizzle&logoColor=black)](https://orm.drizzle.team/docs/overview)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)](https://www.prisma.io/docs)
+</p>
 
-## Security, APIs & Auth
-[![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=plastic&logo=oauth&logoColor=white)](https://oauth.net/2/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=json-web-tokens&logoColor=white)](https://jwt.io/introduction)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=plastic&logo=openapi-initiative&logoColor=white)](https://swagger.io/specification/)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)](https://swagger.io/docs/)
+## 🚀 Featured Projects
 
-## DevOps, Package Managers & Infrastructure
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
-[![PM2](https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/docs/usage/quick-start/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)](https://pnpm.io/motivation)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+### 🏢 Meridian HRMS
 
-## Testing, Monitoring & Tooling
-[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white)](https://vitest.dev/guide/)
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs/)
-[![Pino](https://img.shields.io/badge/Pino-05B3A6?style=plastic&logo=pino&logoColor=white)](https://getpino.io/#/docs/help)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://learning.postman.com/docs/introduction/overview/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+Enterprise HRMS covering **employees, attendance, leave, payroll, recruitment, onboarding, RBAC, authentication, documents, and observability**.
+
+**Stack:** TypeScript · Node.js · Express · Hono · PostgreSQL · Drizzle · Redis · Turborepo · Docker · Pino · Prometheus · Vitest
+
+<a href="https://meridian-hrms.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Live Demo" />
+</a>
+<a href="https://github.com/mr-deepansh/hrms-portal" target="_blank">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=plastic&logo=github&logoColor=white" height="28" alt="Source Code" />
+</a>
+
+### 🌍 Trip Planner Collaboration
+
+Collaborative trip planning platform with **JWT/OAuth 2.0 authentication, PostgreSQL, REST APIs, and optimized database queries**.
+
+**Stack:** React · Node.js · Express · PostgreSQL · JWT · OAuth 2.0
+
+<a href="https://trip-planner-collaboration.vercel.app/login" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=plastic&logo=vercel&logoColor=white" height="28" alt="Live Demo" />
+</a>
+<a href="https://github.com/mr-deepansh/Trip_planner-collaboration" target="_blank">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=plastic&logo=github&logoColor=white" height="28" alt="Source Code" />
+</a>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mr-deepansh&theme=neon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
-  
+
   <img src="https://streak-stats.demolab.com?user=mr-deepansh&theme=neon&hide_border=false" height="150" alt="GitHub Streak" />
-  
+
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mr-deepansh&theme=github_dark&layout=compact&include_all_commits=true&count_private=true&hide_border=false&langs_count=8&cache_seconds=1800" height="150" alt="Top Languages" />
-  
 </div>
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-- 🥇 **Winner** — Problem Solving Contest, Lotus Institute, Bareilly *(represented K.C.M.T. College Campus-2)*
-- 📜 **Certified** — Full-Stack MERN Development Workshop, GeeksforGeeks
-- 🏅 **Recognized** for outstanding problem-solving performance across multiple colleges
-
----
-
-## Currently Exploring
-
-- OpenID Connect (OIDC) deep internals
-- Event-Driven Architecture & message queues
-- Microservices patterns and service mesh
-- Distributed Systems fundamentals
-- Cloud Infrastructure (AWS / GCP basics)
+- 🦈 Pull Shark
+- 🤝 Pair Extraordinaire
+- ⚡ Quickdraw
+- 🥇 Problem Solving Contest Winner
+- 📜 Full-Stack MERN Development Workshop — GeeksforGeeks
 
 ---
 
-## Engineering Philosophy
+## 🔭 Currently Exploring
 
-> Systems should be **observable** before they're optimized, **secure** before they're fast, and **simple** before they're clever.
-
-I build with long-term maintainability in mind — clean contracts between services, structured logs from day one, and deployments that don't require heroics to manage.
+**Distributed Systems · PostgreSQL Replication & Scaling · OIDC · Event-Driven Architecture · Microservices · Cloud Infrastructure · Observability**
 
 ---
+
 <p align="center">
-  <a href="https://deepansh-dev.vercel.app" target="_blank">Portfolio</a> · 
-  <a href="https://linkedin.com/in/deepansh-gangwar" target="_blank">LinkedIn</a> · 
-  <a href="https://github.com/mr-deepansh" target="_blank">GitHub</a> · 
-  <a href="mailto:deepanshgangwar7037@gmail.com">Contact Me</a>
+  <a href="https://deepansh-dev.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/deepansh-gangwar">LinkedIn</a> ·
+  <a href="https://github.com/mr-deepansh">GitHub</a> ·
+  <a href="mailto:deepanshgangwar7037@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=mr-deepansh&style=plastic&color=007ec6" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mr-deepansh&style=plastic&color=007ec6" alt="Profile Views" />
 </p>
