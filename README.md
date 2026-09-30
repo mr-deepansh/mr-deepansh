@@ -1,7 +1,7 @@
 <h1 align="center">Deepansh Gangwar</h1>
 
 <p align="center">
-  <strong>Software Engineer · Backend-Focused Full Stack · TypeScript · Node.js · PostgreSQL · Distributed Systems</strong>
+  <strong>Software Development Engineer · Backend & Full Stack · Distributed Systems · Production Architecture</strong>
 </p>
 
 <p align="center">
